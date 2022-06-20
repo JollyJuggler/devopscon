@@ -1,3 +1,6 @@
+readme geaendert
+
+
 # Hi and Welcome to DevOpsCon CI/CD demo repository
 ## This repository contains basic Maven project with Hello-World war file 
 In order to make it work, please do the following: 
